@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

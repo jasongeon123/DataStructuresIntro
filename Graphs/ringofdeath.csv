@@ -1,0 +1,14 @@
+CSE100,Niema,0.0
+CSE100,learn,100.0
+CSE100,code,200.0
+CSE100,project2,300.0
+CSE100,debug,400.0
+CSE100,improve,500.0
+Niema,learn,6.0
+learn,code,5.0
+code,project2,4.0
+project2,debug,3.0
+debug,improve,2.0
+improve,Niema,1.0
+me,start_late,42.0
+start_late,pain,420.0
